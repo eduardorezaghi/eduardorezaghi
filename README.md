@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**eduardorezaghi/eduardorezaghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente, estou trabalhando com Python focado em back-end
+- 🌱 Atualmente, estou aprendendo Python, Docker, Ferramentas de Gerenciamento de Pacotes (Poetry, Pipenv e Pyenv) e Django
+- 🤓 Entusiasta em Java, Python e C/C++
+- 🤔 Estou procurando ajuda com Python, Django e Flask
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: estudando Análise e Desenvolvimento de Sistemas, mas sou entusiasta em hardware e linguagens de baixo nível!!!
 
-Here are some ideas to get you started:
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardorezaghi&count_private=true&show_icons=true&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorezaghi&layout=compact&theme=nightowl)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
