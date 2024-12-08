@@ -5,8 +5,8 @@ Also, I'm in a thrill to learn Golang, which I'm enjoying a lot :)
 
 Some unnecessary (but cool) info about me:
 - I'm an avid gamer. But also managed to fit in programming into my hobbies.
-- I like Java. A lot.
+- I'm fiddling with Go development recently.
 - I'm trying to learn Rust for some time now.
-- I enjoy Linux and Vim, though I use Windows for gaming purposes (hypocrisy?). Not quite a pro Vimmer yet.
-- I've worked both with QA and development, being flexible in terms of which side I choose to work.
+- I enjoy Linux and Vim, though I use Windows for gaming purposes (hypocrisy?).
+- I've worked both with SDET and full-fledged development, being flexible in terms of which side I choose to work.
 - I'm always open to learn new things.
